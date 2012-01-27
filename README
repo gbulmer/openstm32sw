@@ -1,0 +1,16 @@
+openstm32 README
+
+The aim is to provide both Open Source software and hardware for STM32.
+
+This repository grew from a discussion thread on LeafLabs Maple forum:
+http://forums.leaflabs.com/topic.php?id=1303
+
+It was triggered by ala42 who had released a first cut at libmaple for STM32F4:
+http://forums.leaflabs.com/topic.php?id=1268&page=2#post-7828
+
+Currently we are aiming to maintain some level of compatibility with LeafLabs Maple software API
+
+LeafLabs announced that they are collaborating with Wiring
+http://leaflabs.com/2011/11/were-teaming-up-with-wiring/
+
+Hence openstm32 should have some compatibility with the Wiring Framework.
