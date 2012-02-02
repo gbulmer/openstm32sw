@@ -1,0 +1,13 @@
+README for openstm32sw/stm32f4
+
+This was inspired by ala42 releasing an STM32F4 fork of libmaple
+http://ala42.cdfreaks.com/AeroQuad/maple_0.0.12_F4AQ_mod_ala42_20120123.zip
+
+The post is at 
+http://forums.leaflabs.com/topic.php?id=1268&page=2#post-7828
+
+
+This repository grew from a discussion thread on LeafLabs Maple forum:
+http://forums.leaflabs.com/topic.php?id=1303
+
+Thanks to ala42 for sharing.
